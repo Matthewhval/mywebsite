@@ -75,7 +75,7 @@ p {
 /* Header */
 .logo {
     width: 230px;
-    height: 27px;
+    height: 45px;
     background-image: url(../images/logo.png);
     background-size: cover;
     text-indent: -9999px; }
